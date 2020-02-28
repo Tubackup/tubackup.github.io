@@ -6,8 +6,27 @@
     <atom:link href="https://tubackup.github.io/rss.xml" rel="self" type="application/rss+xml"/>
     <description>记录美好生活</description>
     <generator>Solo, v3.8.0, https://solo.b3log.org</generator>
-    <lastBuildDate>Sat, 29 Feb 2020 00:06:58 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 29 Feb 2020 00:26:51 +0800</lastBuildDate>
     <language>zh-cn</language>
+    <item>
+      <title>世界，你好2！</title>
+      <link>https://tubackup.github.io/hello-solo</link>
+      <description>
+        <![CDATA[<p><img src="https://img.hacpai.com/bing/20190609.jpg?imageView2/1/w/1280/h/720/interlace/1/q/100" alt=""></p>
+<p>Solo 博客系统已经初始化完毕，可在管理后台 - 工具 - 偏好设定中调整更多细节设置。如果需要导入已有博客文章，请参考文档 <a href="https://hacpai.com/article/1498490209748" target="_blank">Hexo/Jekyll/Markdown 文件导入</a>。</p>
+<p>对了，出于安全考虑请尽快完成如下操作：</p>
+<ol>
+<li>登录<a href="https://hacpai.com" target="_blank">社区</a></li>
+<li>在社区<a href="https://hacpai.com/settings/b3" target="_blank">个人设置 - B3</a> 中更新 B3 Key</li>
+<li>在 Solo 管理后台 - 工具 - 用户管理中也进行同样的 B3 Key 更新</li>
+</ol>
+<p>最后，如果你觉得 Solo 很赞，请到<a href="https://github.com/88250/solo" target="_blank">项目主页</a>给颗星鼓励一下 ❤️️</p>]]>
+      </description>
+      <author>Tubackup</author>
+      <guid>https://tubackup.github.io/hello-solo</guid>
+      <category>Solo</category>
+      <pubDate>Sat, 29 Feb 2020 00:26:34 +0800</pubDate>
+    </item>
     <item>
       <title>我在 GitHub 上的开源项目</title>
       <link>https://tubackup.github.io/my-github-repos</link>
@@ -19,28 +38,9 @@
       </description>
       <author>Tubackup</author>
       <guid>https://tubackup.github.io/my-github-repos</guid>
-      <category>开源</category>
       <category>GitHub</category>
+      <category>开源</category>
       <pubDate>Fri, 28 Feb 2020 22:39:52 +0800</pubDate>
-    </item>
-    <item>
-      <title>世界，你好！</title>
-      <link>https://tubackup.github.io/hello-solo</link>
-      <description>
-        <![CDATA[<p><img src="https://img.hacpai.com/bing/20190609.jpg?imageView2/1/w/1280/h/720/interlace/1/q/100" alt=""></p>
-<p>Solo 博客系统已经初始化完毕，可在管理后台 - 工具 - 偏好设定中调整更多细节设置。如果需要导入已有博客文章，请参考文档 <a href="https://hacpai.com/article/1498490209748" target="_blank">Hexo/Jekyll/Markdown 文件导入</a>。</p>
-<p>对了，出于安全考虑请尽快完成如下操作：</p>
-<ol>
-<li>登录<a href="https://hacpai.com" target="_blank">社区</a></li>
-<li>在社区<a href="https://hacpai.com/settings/b3" target="_blank">个人设置 - B3</a> 中更新 B3 Key</li>
-<li>在 Solo 管理后台 - 工具 - 用户管理中也进行同样的 B3 Key 更新</li>
-</ol>
-<p>最后，如果你觉得 Solo 很赞，请到<a href="https://github.com/88250/solo" target="_blank">项目主页</a>给颗星鼓励一下 ❤️</p>]]>
-      </description>
-      <author>Tubackup</author>
-      <guid>https://tubackup.github.io/hello-solo</guid>
-      <category>Solo</category>
-      <pubDate>Fri, 28 Feb 2020 22:15:48 +0800</pubDate>
     </item>
   </channel>
 </rss>
