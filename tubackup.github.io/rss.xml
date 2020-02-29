@@ -5,8 +5,8 @@
     <link>https://tubackup.github.io</link>
     <atom:link href="https://tubackup.github.io/rss.xml" rel="self" type="application/rss+xml"/>
     <description>记录美好生活</description>
-    <generator>Solo, v3.8.0, https://solo.b3log.org</generator>
-    <lastBuildDate>Sat, 29 Feb 2020 00:28:20 +0800</lastBuildDate>
+    <generator>Solo, v3.9.0, https://solo.b3log.org</generator>
+    <lastBuildDate>Sat, 29 Feb 2020 23:30:31 +0800</lastBuildDate>
     <language>zh-cn</language>
     <item>
       <title>世界，你好2！</title>
@@ -31,10 +31,9 @@
       <title>我在 GitHub 上的开源项目</title>
       <link>https://tubackup.github.io/my-github-repos</link>
       <description>
-        <![CDATA[<p></p><ol>
-<li>inspinia JavaScript ]]>🤩<![CDATA[0&nbsp;&nbsp;⭐️6&nbsp;&nbsp;]]>🖖<![CDATA[6&nbsp;&nbsp;]]>🏠<![CDATA[<a href="https://tubackup.github.io/inspinia/">https://tubackup.github.io/inspinia/</a> inspinia v2.9.2</li>
-</ol>
-<p></p>]]>
+        <![CDATA[<ol>
+<li>inspinia JavaScript ]]>🤩<![CDATA[0&nbsp;&nbsp;⭐️6&nbsp;&nbsp;]]>🖖<![CDATA[6&nbsp;&nbsp;]]>🏠<![CDATA[<a href="https://tubackup.github.io/inspinia/" target="_blank">https://tubackup.github.io/inspinia/</a> inspinia v2.9.2</li>
+</ol>]]>
       </description>
       <author>Tubackup</author>
       <guid>https://tubackup.github.io/my-github-repos</guid>
